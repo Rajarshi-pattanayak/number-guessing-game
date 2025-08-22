@@ -11,6 +11,7 @@ This is a simple Python terminal-based number guessing game where the computer s
   - **Easy** – 10 guesses
   - **Medium** – 5 guesses
   - **Hard** – 3 guesses
+  - **Russian Roullete** - 1 guess 
 - Feedback after each guess: too high or too low
 - Option to replay the game after finishing
 
@@ -21,7 +22,7 @@ This is a simple Python terminal-based number guessing game where the computer s
 3. Run the game using the terminal:
 
 ```bash
-python GameV2.0.py
+python GameV3_0.py
 ```
 
 ## 🧠 How to Play
@@ -33,7 +34,7 @@ python GameV2.0.py
 
 ## 📂 File
 
-- `GameV2.0.py` – Main game file.
+- `GameV3_0.py` – Main game file.
 
 ## 📸 Preview
 
